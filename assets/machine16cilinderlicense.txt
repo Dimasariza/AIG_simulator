@@ -1,0 +1,11 @@
+Model Information:
+* title:	CAT G3512B Gas Petroleum Engine
+* source:	https://sketchfab.com/3d-models/cat-g3512b-gas-petroleum-engine-dc4a1cfb098448c0bcffa778a423efe5
+* author:	Homo Urbanus (https://sketchfab.com/flatform)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CAT G3512B Gas Petroleum Engine" (https://sketchfab.com/3d-models/cat-g3512b-gas-petroleum-engine-dc4a1cfb098448c0bcffa778a423efe5) by Homo Urbanus (https://sketchfab.com/flatform) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

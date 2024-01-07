@@ -1,0 +1,504 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5132,
+      "max": [
+        40.325714111328125,
+        59.91019058227539,
+        85.97637939453125
+      ],
+      "min": [
+        -42.39259338378906,
+        -50.80104064941406,
+        -50.80104064941406
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61584,
+      "componentType": 5126,
+      "count": 5132,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 17514,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 123168,
+      "componentType": 5126,
+      "count": 3088,
+      "max": [
+        41.69693374633789,
+        171.32212829589844,
+        85.61946105957031
+      ],
+      "min": [
+        -42.042240142822266,
+        52.90315246582031,
+        -22.80975914001465
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 160224,
+      "componentType": 5126,
+      "count": 3088,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 70056,
+      "componentType": 5125,
+      "count": 7578,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 197280,
+      "componentType": 5126,
+      "count": 35067,
+      "max": [
+        40.97157669067383,
+        199.19557189941406,
+        84.08589172363281
+      ],
+      "min": [
+        -40.99118423461914,
+        156.8185272216797,
+        3.5021092891693115
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 618084,
+      "componentType": 5126,
+      "count": 35067,
+      "max": [
+        0.999713122844696,
+        1.0,
+        0.9999896883964539
+      ],
+      "min": [
+        -0.9999997615814209,
+        -1.0,
+        -0.9999554753303528
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 100368,
+      "componentType": 5125,
+      "count": 92700,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1038888,
+      "componentType": 5126,
+      "count": 702,
+      "max": [
+        29.771697998046875,
+        193.69093322753906,
+        73.35547637939453
+      ],
+      "min": [
+        -29.771697998046875,
+        186.6922149658203,
+        13.812095642089844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1047312,
+      "componentType": 5126,
+      "count": 702,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 471168,
+      "componentType": 5125,
+      "count": 1560,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Aquent Studios at Rockwell Automation (https://sketchfab.com/aquentstudiosra)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/motor-and-gear-box-a2747542ec404bcebaa57d58ed2adc73",
+      "title": "Motor And Gear Box"
+    },
+    "generator": "Sketchfab-15.25.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 477408,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1055736,
+      "byteOffset": 477408,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1533144,
+      "uri": "rotor.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Black",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.08,
+          0.08,
+          0.08,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9524317153998911
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "PARTBODY_PRT_Black_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BODY_3_PRT_Black_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BODY_5_PRT_Black_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BODY_6_PRT_Black_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "11d16587e6ef43ca937910b8e0b41763.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.16069335580653132,
+        -0.13732228774519895,
+        -0.9774048468715819,
+        0.0,
+        -0.02227783004353613,
+        0.9905264202879319,
+        -0.1355031697050904,
+        0.0,
+        0.9867529294044113,
+        6.800116025829084e-16,
+        -0.16223025707867555,
+        0.0,
+        182.56887817382813,
+        139.62655639648438,
+        849.478759765625,
+        1.0
+      ],
+      "name": "CINEMA_4D_Editor"
+    },
+    {
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6,
+        8,
+        10,
+        12
+      ],
+      "matrix": [
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Motor_and_Gear_Box"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.2958450216584675e-49,
+        0.0,
+        0.0,
+        -2.2958450216584675e-49,
+        1.0,
+        0.0,
+        -4.853676359855987e-31,
+        -4.853676359855987e-31,
+        7.9266554461172e-15,
+        1.0
+      ],
+      "name": "PARTBODY_PRT"
+    },
+    {
+      "mesh": 0,
+      "name": "PARTBODY_PRT_Black_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.2958450216584675e-49,
+        0.0,
+        0.0,
+        -2.2958450216584675e-49,
+        1.0,
+        0.0,
+        -4.853676359855987e-31,
+        -4.853676359855987e-31,
+        7.9266554461172e-15,
+        1.0
+      ],
+      "name": "BODY_3_PRT"
+    },
+    {
+      "mesh": 1,
+      "name": "BODY_3_PRT_Black_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.2958450216584675e-49,
+        0.0,
+        0.0,
+        -2.2958450216584675e-49,
+        1.0,
+        0.0,
+        -4.853676359855987e-31,
+        -4.853676359855987e-31,
+        7.9266554461172e-15,
+        1.0
+      ],
+      "name": "BODY_5_PRT"
+    },
+    {
+      "mesh": 2,
+      "name": "BODY_5_PRT_Black_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.2958450216584675e-49,
+        0.0,
+        0.0,
+        -2.2958450216584675e-49,
+        1.0,
+        0.0,
+        -4.853676359855987e-31,
+        -4.853676359855987e-31,
+        7.9266554461172e-15,
+        1.0
+      ],
+      "name": "BODY_6_PRT"
+    },
+    {
+      "mesh": 3,
+      "name": "BODY_6_PRT_Black_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

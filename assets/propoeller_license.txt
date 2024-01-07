@@ -1,0 +1,11 @@
+Model Information:
+* title:	Submarine Propeller
+* source:	https://sketchfab.com/3d-models/submarine-propeller-a7add945d5194d87bfb17b8f9649614e
+* author:	AnirudhRao (https://sketchfab.com/AnirudhRao)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Submarine Propeller" (https://sketchfab.com/3d-models/submarine-propeller-a7add945d5194d87bfb17b8f9649614e) by AnirudhRao (https://sketchfab.com/AnirudhRao) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

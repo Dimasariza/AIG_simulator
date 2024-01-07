@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motor And Gear Box
+* source:	https://sketchfab.com/3d-models/motor-and-gear-box-a2747542ec404bcebaa57d58ed2adc73
+* author:	Aquent Studios at Rockwell Automation (https://sketchfab.com/aquentstudiosra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motor And Gear Box" (https://sketchfab.com/3d-models/motor-and-gear-box-a2747542ec404bcebaa57d58ed2adc73) by Aquent Studios at Rockwell Automation (https://sketchfab.com/aquentstudiosra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

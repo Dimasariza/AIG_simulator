@@ -1,0 +1,11 @@
+Model Information:
+* title:	Joystick
+* source:	https://sketchfab.com/3d-models/joystick-7414b37388214e258e7693aedd605a91
+* author:	Magnus (https://sketchfab.com/magnusinmexico)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Joystick" (https://sketchfab.com/3d-models/joystick-7414b37388214e258e7693aedd605a91) by Magnus (https://sketchfab.com/magnusinmexico) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

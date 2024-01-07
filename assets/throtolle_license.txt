@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tardis-lever
+* source:	https://sketchfab.com/3d-models/tardis-lever-1deeb3528ef146c39c923b9be0972b59
+* author:	Icefyre24 (https://sketchfab.com/Icefyre24)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tardis-lever" (https://sketchfab.com/3d-models/tardis-lever-1deeb3528ef146c39c923b9be0972b59) by Icefyre24 (https://sketchfab.com/Icefyre24) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

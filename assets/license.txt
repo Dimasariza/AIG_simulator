@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motor
+* source:	https://sketchfab.com/3d-models/motor-3eaf7bf7fab44f969e1ce15c2e8965e1
+* author:	Zuncho Multimedia (https://sketchfab.com/zunchomultimedia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motor" (https://sketchfab.com/3d-models/motor-3eaf7bf7fab44f969e1ce15c2e8965e1) by Zuncho Multimedia (https://sketchfab.com/zunchomultimedia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

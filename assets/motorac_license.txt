@@ -1,0 +1,11 @@
+Model Information:
+* title:	AC Motor
+* source:	https://sketchfab.com/3d-models/ac-motor-7be2d5b4e5b54ab1b54491a0d447de5a
+* author:	sakigakefuruzawa (https://sketchfab.com/sakigakefuruzawa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AC Motor" (https://sketchfab.com/3d-models/ac-motor-7be2d5b4e5b54ab1b54491a0d447de5a) by sakigakefuruzawa (https://sketchfab.com/sakigakefuruzawa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -228,7 +228,7 @@ window.addEventListener('resize', () => {
 
 function animate() {
     requestAnimationFrame(animate);
-    if(propeller) propeller.rotateZ(0.01)
+    if(propeller) propeller.rotateZ(0.05)
     controls.update();
     renderer.render(scene, camera);
 }

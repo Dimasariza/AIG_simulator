@@ -82,7 +82,7 @@ let propeller = loader.load('propeller2.gltf', (dieselEngine) => {
     return mesh
 });
 
-loader.load('console controle2.glb', (propeller) => {
+loader.load('console control 4 pc.glb', (propeller) => {
     const mesh = propeller.scene;
     mesh.traverse((child) => {
         if (child.isMesh) {
@@ -90,7 +90,7 @@ loader.load('console controle2.glb', (propeller) => {
             child.receiveShadow = true;
         }
     });
-    mesh.position.set(0, 0, 4);
+    mesh.position.set(-0.8, 0, 4);
     mesh.rotation.set(0, Math.PI / 180 * 0, 0)
     mesh.scale.set(1.2, 1.2, 1.2)
     scene.add(mesh);

@@ -44,12 +44,12 @@ groundMesh.receiveShadow = true;
 scene.add(groundMesh);
 
 const spotLight = new THREE.SpotLight(0xffffff,  3, 100, 0.22, 1);
-spotLight.position.set(0, 25, 0);
+spotLight.position.set(0, 40, 0);
 spotLight.castShadow = true;
 spotLight.shadow.bias = -0.0001;
 scene.add(spotLight);
 
-const ambientLight = new THREE.AmbientLight(0xFFFFFF, 1)
+const ambientLight = new THREE.AmbientLight(0xFFFFFF, 2)
 scene.add(ambientLight)
 
 const loader = new GLTFLoader().setPath('assets/');
@@ -75,7 +75,7 @@ let propeller = loader.load('propeller2.gltf', (dieselEngine) => {
             child.receiveShadow = true;
         }
     });
-    mesh.position.set(3.1, 1.55, -3.4);
+    mesh.position.set(3.47, 1.5, -4);
     mesh.rotation.set(0, Math.PI / 180 * 180, 0)
     mesh.scale.set(0.01, 0.01, 0.01)
     scene.add(mesh);
@@ -186,7 +186,7 @@ loader.load('diesel_engine.gltf', (propeller) => {
     scene.add(mesh);
 })
 
-loader.load('metal_box.gltf', (propeller) => {
+loader.load('gearbox.glb', (propeller) => {
     const mesh = propeller.scene;
     mesh.traverse((child) => {
         if (child.isMesh) {
@@ -194,13 +194,13 @@ loader.load('metal_box.gltf', (propeller) => {
             child.receiveShadow = true;
         }
     });
-    mesh.position.set(2.8, 1.5, -2.7);
-    mesh.rotation.set(0, Math.PI / 180 * 270, 0)
-    mesh.scale.set(0.5, 1, 1.5)
+    mesh.position.set(2.4, 1.5, -3.8);
+    mesh.rotation.set(0, Math.PI / 180 * 180, 0)
+    mesh.scale.set(0.015, 0.015, 0.015)
     scene.add(mesh);
 })
 
-loader.load('metal_box.gltf', (propeller) => {
+loader.load('modification pem.glb', (propeller) => {
     const mesh = propeller.scene;
     mesh.traverse((child) => {
         if (child.isMesh) {
@@ -208,9 +208,9 @@ loader.load('metal_box.gltf', (propeller) => {
             child.receiveShadow = true;
         }
     });
-    mesh.position.set(2.8, 1.5, -2.7);
+    mesh.position.set(4.5, 1.5, -2.4);
     mesh.rotation.set(0, Math.PI / 180 * 90, 0)
-    mesh.scale.set(0.5, 1, 1.5)
+    mesh.scale.set(3, 3, 3)
     scene.add(mesh);
 })
 
